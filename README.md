@@ -1,4 +1,4 @@
-# Twitter_Sentiment_Analysis_R
+# COVID19-Stock-Market-Sentiment-Analysis
 
 <em>Analyzing Twitter sentiments in R (sentiment bar plots, line plots, and word clouds)</em>
 
