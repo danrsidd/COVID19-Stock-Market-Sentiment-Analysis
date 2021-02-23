@@ -12,10 +12,10 @@ This project intends to utilize natural language processing (NLP) and sentiment 
 
 The following hypothesis and research questions guided this project’s research and technical development:
 
-Hypothesis: Twitter sentiments influence stock market performance during a global pandemic.  
-Research Question 1: Are Twitter sentiments able to accurately predict stock market performance during a global pandemic?  
-Research Question 2: Do global Twitter sentiments have a significant impact on the United States’ economic performance?  
-Research Question 3: Do positive and negative sentiments correlate with increases or decreases in market performance?
+**Hypothesis:** Twitter sentiments influence stock market performance during a global pandemic.  
+**Research Question 1:** Are Twitter sentiments able to accurately predict stock market performance during a global pandemic?  
+**Research Question 2:** Do global Twitter sentiments have a significant impact on the United States’ economic performance?  
+**Research Question 3:** Do positive and negative sentiments correlate with increases or decreases in market performance?
 
 This R script makes use of several libraries. Together these libraries and associated functions connect and authenticate a Twitter API connection, search for tweets with the given search parameters, and create a number of visualizations. ggplot2 was used to create all bar plot and line plot visualizations, while wordcloud was used to create all word cloud visualizations. Although this project is situated in the context of COVID-19, simply changing search parameters (or potentially adding new parmeters) makes this script flexible for all sorts of visual Twitter sentiment analysis.
 
