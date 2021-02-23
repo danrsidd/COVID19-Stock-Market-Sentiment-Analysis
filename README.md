@@ -19,3 +19,4 @@ The following hypothesis and research questions guided this project’s research
 
 This R script makes use of several libraries. Together these libraries and associated functions connect and authenticate a Twitter API connection, search for tweets with the given search parameters, and create a number of visualizations. ggplot2 was used to create all bar plot and line plot visualizations, while wordcloud was used to create all word cloud visualizations. Although this project is situated in the context of COVID-19, simply changing search parameters (or potentially adding new parmeters) makes this script flexible for all sorts of visual Twitter sentiment analysis.
 
+ 
