@@ -17,10 +17,18 @@ The following hypothesis and research questions guided this project’s research
 
 This R script makes use of several libraries. Together these libraries and associated functions connect and authenticate a Twitter API connection, search for tweets with the given search parameters, and create a number of visualizations. ggplot2 was used to create all bar plot and line plot visualizations, while wordcloud was used to create all word cloud visualizations.
 
+Analyzed using:
+
 * [R](https://www.r-project.org)
 * [ggplot2](https://ggplot2.tidyverse.org)
 * [wordcloud](https://cran.r-project.org/web/packages/wordcloud/wordcloud.pdf)
 * [Twitter API](https://developer.twitter.com/en/docs)
+
+Website built with:
+
+* [HTML](https://www.w3schools.com/html/)
+* [CSS](https://www.w3schools.com/css/)
+* [JavaScript](https://www.javascript.com)
 
 ## Grab a Local Copy to Experiment With
 
