@@ -20,7 +20,7 @@ This R script makes use of several libraries. Together these libraries and assoc
 * [R](https://www.r-project.org)
 * [ggplot2](https://ggplot2.tidyverse.org)
 * [wordcloud](https://cran.r-project.org/web/packages/wordcloud/wordcloud.pdf)
-* [Twitter API](https://twitter.com/api)
+* [Twitter API](https://developer.twitter.com/en/docs)
 
 ## Grab a Local Copy to Experiment With
 
