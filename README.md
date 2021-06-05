@@ -45,5 +45,5 @@ Interested in making a contribution? Follow the steps below!
 
 ## Link(s)
 
-Project Link: [github.com/danrsidd/COVID19-Stock-Market-Sentiment-Analysis](https://github.com/danrsidd/COVID19-Stock-Market-Sentiment-Analysis)
+Project Link: [github.com/danrsidd/COVID19-Stock-Market-Sentiment-Analysis](https://github.com/danrsidd/COVID19-Stock-Market-Sentiment-Analysis)\
 Visit the Website: [covidsentiments.com](https://covidsentiments.com)
